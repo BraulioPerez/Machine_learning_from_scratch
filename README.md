@@ -28,16 +28,10 @@ By using only NumPy, you’ll see how each piece fits together.
 
 ## 🧠 Models Implemented (so far)
 ### Supervised
-- Linear Regression  
-- Logistic Regression  
-- k-Nearest Neighbors (k-NN)  
 - Decision Trees  
-- Naive Bayes  
+(More coming soon...)
 
 ### Unsupervised
-- k-Means Clustering  
-- Principal Component Analysis (PCA)  
-
 (More coming soon...)
 
 ---
