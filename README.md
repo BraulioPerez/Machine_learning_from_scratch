@@ -37,25 +37,21 @@ By using only NumPy, you’ll see how each piece fits together.
 ---
 
 ## 📂 Repository Structure
+```text
+machine-learning-from-scratch/
 │
 ├── supervised/
-│ ├── linear_regression.py
-│ ├── logistic_regression.py
-│ └── ...
+│   ├── decision_tree.py
+│   (More coming soon...)
+│
 │
 ├── unsupervised/
-│ ├── kmeans.py
-│ └── pca.py
+│   (More coming soon...)
 │
-├── utils/
-│ ├── metrics.py
-│ ├── preprocessing.py
-│ └── ...
-│
-├── datasets/ # Example datasets for testing
+├── datasets/
 │
 └── README.md
-
+```
 ---
 
 ## ⚡ Getting Started
@@ -69,3 +65,9 @@ Clone the repo:
 ```bash
 git clone https://github.com/BraulioPerez/machine-learning-from-scratch.git
 cd machine-learning-from-scratch
+
+## To do ✅
+- Random Forest 🌲🌲🌲
+- Linear regression 📈
+- Naive Bayes ➿
+- Logistic regression 🔢
